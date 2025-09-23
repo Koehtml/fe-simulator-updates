@@ -1,9 +1,0 @@
-{
-  "version": "1.0.1",
-  "app_name": "FE Simulator Pro",
-  "release_date": "2025-09-22T12:46:35.601787",
-  "download_url": "https://github.com/Koehtml/fe-simulator-updates/releases/download/v1.0.1/update_1.0.1.zip",
-  "changelog": "Version 1.0.1 - Bug Fixes and Improvements\n\u2022 Fixed calculator display issues\n\u2022 Improved problem loading performance\n\u2022 Added new practice problems\n\u2022 Enhanced user interface\n\u2022 Fixed memory leaks in exam mode\n\u2022 Implemented new simple updater system",
-  "file_size": "15.2 MB",
-  "checksum": "sha256:abc123def456..."
-}
