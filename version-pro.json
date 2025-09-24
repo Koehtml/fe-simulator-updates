@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "app_name": "FE Simulator Pro",
   "release_date": "2025-09-22T12:46:35.601787",
-  "download_url": "https://github.com/Koehtml/fe-simulator-updates/releases/download/v1.0.2-pro/update_1.0.2-pro.zip",
-  "changelog": "Version 1.0.1 - Added discord button and moved some stuff around on the Dashboard.",
-  "file_size": "15.2 MB",
+  "download_url": "https://github.com/Koehtml/fe-simulator-updates/releases/download/v1.0.3-pro/update_1.0.3-pro.zip",
+  "changelog": "Version 1.0.3 - Added bookmarks to FE Handbook side and other stuff.",
+  "file_size": "953 KB",
   "checksum": "sha256:abc123def456..."
 }
